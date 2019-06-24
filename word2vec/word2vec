@@ -29,6 +29,7 @@ a=model.wv.most_similar("문학")
 b=model.wv.most_similar("상수")
 c=model.wv.most_similar("수학")
 
+
 print('문학', a)
 print('상수', b)
 print('수학', c)
